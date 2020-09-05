@@ -1,3 +1,3 @@
 # my-first-repo
-![Foto](img/jens)
+![Foto](img/jens.png)
 [Zuyd](https://www.zuyd.nl/)
